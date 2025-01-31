@@ -1,4 +1,4 @@
-# Hackintosh EFI - macOS Sequoia
+# Hackintosh EFI - macOS Sequoia 15.3
 
 Este repositório contém a EFI configurada para Hackintosh utilizando o macOS Sequoia em um sistema com a seguinte configuração de hardware.
 
